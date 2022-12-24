@@ -1,6 +1,9 @@
 # TinDog🐶
 Tinder for Dogs
 
+## TechStack
+![image](https://user-images.githubusercontent.com/84740041/209439400-12582415-5869-449a-adf8-6ee67f14c22e.png)
+
 ## Preview
 Visit the website <a href='https://anshkapoor16.github.io/TinDog/'>here</a>
 
